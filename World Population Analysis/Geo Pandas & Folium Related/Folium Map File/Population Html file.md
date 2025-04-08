@@ -7,4 +7,4 @@ The interactive population forecast map (2026–2030) was created using **GeoPan
 - Hover to view detailed data per country
 - Zoom and pan for easy navigation
 
-👉 [Click here to view the interactive map]((https://drive.google.com/drive/folders/13_NGtv4nKgu2Dz9It6Ddj6GOljUae-at?usp=drive_link))
+👉 [Click here to view the interactive map](https://drive.google.com/drive/folders/13_NGtv4nKgu2Dz9It6Ddj6GOljUae-at?usp=drive_link)
